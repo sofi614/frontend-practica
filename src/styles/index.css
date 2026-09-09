@@ -1,0 +1,18 @@
+html {
+	background: #f8f2e8;
+}
+
+body {
+	margin: 0;
+}
+
+#root {
+	min-height: 100vh;
+}
+
+button,
+input,
+select,
+textarea {
+	font-family: inherit;
+}

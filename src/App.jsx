@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, Route, Routes, useNavigate, useParams } from 'react-router-dom'
 
-import './App.css'
+import './styles/App.css'
 import PropertyCard from './components/PropertyCard'
 import PropertyDetails from './components/PropertyDetails'
 import PropertyFormPage from './components/PropertyFormPage'
